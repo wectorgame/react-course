@@ -1,0 +1,6 @@
+export { default as Book } from './Book'
+export { default as Preloader } from './Preloader'
+export { default as Counter } from './Counter'
+export { default as Posts } from './Posts'
+export { default as FormEmail } from './FormEmail'
+export { default as FuncCounter } from './FuncCounter'
